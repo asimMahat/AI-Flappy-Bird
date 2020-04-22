@@ -14,7 +14,7 @@ The basic overview of the process:
 
 Screenshot:
 
-![Screenshot(6).png]
+![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(6).png)
 
 
 
