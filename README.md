@@ -12,9 +12,12 @@ The basic overview of the process:
    for popualtion size, generation,fitness threshold,activation function as so on.
 7. Finally the config file is loaded to config_path and config_path is being run.
 
-Screenshot:
+Screenshots:
 
 ![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(6).png)
 
+![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(7).png)
+
+![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(8).png)
 
 
