@@ -1,4 +1,4 @@
-# AI-Flappy-BIrd
+# AI-Flappy-Bird
 Here, flappy bird learns to play the game by itself using NEAT(Neuroevolution of augmenting topologies) algorithm.
 
 This is build by using python pygame library. 
@@ -12,16 +12,13 @@ The basic overview of the process:
    for popualtion size, generation,fitness threshold,activation function as so on.
 7. Finally the config file is loaded to config_path and config_path is being run.
 
-WATCH DEMO :
+ **WATCH DEMO :
 https://www.youtube.com/watch?v=6I05lHqVhzM&t=22s
-
-
-Screenshots:
+**
+**
+SCREENSHOT:
 
 ![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(6).png)
-
-![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(7).png)
-
-![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(8).png)
+ 
 
 
