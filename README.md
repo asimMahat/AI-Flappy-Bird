@@ -16,7 +16,7 @@ The basic overview of the process:
  
 **https://www.youtube.com/watch?v=6I05lHqVhzM&t=22s**
 
-SCREENSHOT:
+**SCREENSHOT:**
 
 ![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(6).png)
  
