@@ -12,10 +12,10 @@ The basic overview of the process:
    for popualtion size, generation,fitness threshold,activation function as so on.
 7. Finally the config file is loaded to config_path and config_path is being run.
 
- **WATCH DEMO :
-https://www.youtube.com/watch?v=6I05lHqVhzM&t=22s
-**
-**
+ **WATCH DEMO :**
+ 
+**https://www.youtube.com/watch?v=6I05lHqVhzM&t=22s**
+
 SCREENSHOT:
 
 ![Screenshot](https://github.com/asimMahat111/AI-Flappy-BIrd/blob/master/Screenshot%20(6).png)
